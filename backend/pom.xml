@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.nischal</groupId>
+    <groupId>com.lucky</groupId>
     <artifactId>collaborative-task-platform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Collaborative Task Platform</name>
